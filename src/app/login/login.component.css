@@ -1,0 +1,27 @@
+#grad1{
+
+    box-sizing: border-box;
+
+    position: absolute;
+width: 100%;
+height: 100%;
+
+  background-image: linear-gradient(to right, rgb(44, 143, 148) , rgb(49, 212, 231));
+    border: 1px solid #000000;
+    border-radius: 8px; 
+}
+#grad2{   
+
+
+position: absolute;
+width: 90%;
+height: 70%;
+margin-top: 2%;
+margin-left: 5%;
+border: 2px solid #ffffff;
+border-radius: 20px;
+  }
+
+
+
+

@@ -1,0 +1,17 @@
+.header{
+    background-color: rgba(54, 204, 177, 1);
+}
+.text-blue{
+    color: rgba(20, 153, 182, 1);
+  text-decoration: none;;
+}
+.bg-blue{
+        background-color: rgba(20, 153, 182, 1);;
+}
+.inp{
+    margin-bottom: 10px;
+    padding:5px;
+    border:2px solid 
+rgba(54, 195, 204, 1);
+    border-radius: 9px;
+}
